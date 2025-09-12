@@ -1,4 +1,4 @@
-# 📌 Projecte ASX2-A/B – projecte-asx2A-B--Nicol-s-Y-AlbeRT
+# 📌 Projecte ASX2-A/B – projecte-asx2A-B--Nicol-s-Y-Albert
 
 ## 👥 Integrants
 - Albert (@QuercusJS)
