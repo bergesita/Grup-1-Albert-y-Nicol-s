@@ -1,0 +1,1 @@
+# projecte-asx2A-B--Nicol-s-Y-Albert-
