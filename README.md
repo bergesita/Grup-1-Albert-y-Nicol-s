@@ -16,6 +16,14 @@ L’objectiu és dissenyar i defensar la infraestructura d’una **empresa fict�
 ## 📆 Fases inicials del projecte
 1. **Disseny + AD base**  
    - Diagrama de xarxa, AD/Samba4 amb OU, usuaris i GPO.
+   - Hem creat un **diagrama de xarxa** de l’empresa, mostrant els servidors, routers, firewalls i els fluxos de connexió interns i externs.
+   - Hem desenvolupat un **mockup de l’aplicació web interna** amb les següents funcionalitats:
+     - Autenticació d’usuaris.
+     - Creació d’usuaris.
+     - Creació de departaments.
+     - Panell administratiu on validar un usuari i assignar-lo a un departament.
+     - Registre de monitorització dels equips de l’empresa.
+     - Panell de control per veure els logs d’incidents.
 
 2. **Consolidació AD**  
    - Polítiques de seguretat i proves de login remot.
@@ -37,19 +45,3 @@ Columnes: `Backlog` → `En Progrés` → `Fet`
 Cada tasca ha de tenir un responsable assignat i una data prevista.
 
 ## 📂 Estructura inicial del repositori
-```
-/docs/              → Documentació i informes
-/src/               → Codi de l’aplicació web
-/config/            → Configuracions (AD, WAF, Honeypots)
-/scripts/           → Scripts de suport
-```
-
-## 📝 Llicència
-Indicar si el projecte és lliure o només per ús acadèmic.
-esto es mi readme, añade que hemos hecho un diagrama de red de una empresa y un mockup con estos puntos:
-Autenticació d'usuaris.
-Creació d'usuaris.
-Creació departaments.
-Panell administratiu on validar un usuari i assignar-lo a un departament.
-Registre de monitoritzacio dels equips de lempresa.
-Panell de control on veure els logs de incidents.
